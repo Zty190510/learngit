@@ -8,5 +8,7 @@ git add <file> 添加文件
 git commit -m <message> 提交文件(可以一次性提交多个文件)
     -m 添加修改信息
 
-git status 
+git status 掌握工作区状态
  状态 /ˈstetəs/
+git diff 查看修改内容
+
